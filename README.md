@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
-git clone https://github.com/AbhaySingh71/AI-Powered-Healthcare-Intelligence-System.git
+git clone https://github.com/mimi-netizen/Healthcare-AI-System.git
 cd AI-Powered-Healthcare-Intelligence-System
 </pre>
 
@@ -188,7 +188,7 @@ git push origin main
 <h2>📬 Contact Us</h2>
 <p>Have questions or need support? Reach out to us at:</p>
 <ul>
-  <li>📧 <a href="mailto:abhaysingh71711@gmail.com">abhaysingh71711@gmail.com</a></li>
+  <li>📧 <a href="mailto:celynekydd@gmail.com">celynekydd@gmail.com</a></li>
 </ul>
 
 ---
