@@ -184,7 +184,7 @@ st.markdown("""
     <div class='contact'>
         <h2>📬 Contact Us</h2>
         <p>Have questions or need support? Reach out to us at:</p>
-        📧 <a href="mailto:abhaysingh71711@gmail.com">abhaysingh71711@gmail.com</a>
+        📧 <a href="mailto:celynekydd@gmail.com">celynekydd@gmail.com</a>
     </div>
     """, unsafe_allow_html=True)
 
@@ -192,8 +192,7 @@ st.markdown("""
 st.markdown("""
     <div class='profile-links'>
         <h2>🌐 Connect With Me</h2>
-        <a href="https://github.com/AbhaySingh71" target="_blank">GitHub</a> |
-        <a href="https://www.linkedin.com/in/abhay-singh-050a5b293/" target="_blank">LinkedIn</a> |
-        <a href="https://x.com/AbhaySingh71711" target="_blank">Twitter</a>
+        <a href="https://github.com/mimi-netizen" target="_blank">GitHub</a> |
+        <a href="https://www.linkedin.com/in/celyne-kydd/" target="_blank">LinkedIn</a> 
     </div>
     """, unsafe_allow_html=True)
