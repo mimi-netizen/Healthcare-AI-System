@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/360876dc-551a-498b-ab75-472137fed751
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
 git clone https://github.com/mimi-netizen/Healthcare-AI-System.git
-cd AI-Powered-Healthcare-Intelligence-System
+cd Healthcare-Intelligence-System
 </pre>
 
 <h3>2️⃣ Set Up the Virtual Environment</h3>
